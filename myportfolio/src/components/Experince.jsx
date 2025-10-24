@@ -21,7 +21,7 @@ const Experience = () => {
               <h3 className="text-xl font-semibold text-blue-500">
                 Full Stack Developer – QICPIC Innovation
               </h3>
-              <p className="text-sm text-gray-500">Dec 2024 – Present</p>
+              <p className="text-sm text-gray-500">Dec 2024 – May 2025</p>
               <ul className="mt-3 list-disc list-inside text-sm text-gray-700 dark:text-gray-300 space-y-1">
                 <li>
                   Built scalable backend APIs for the CAP platform using Node.js, Express.js, and PostgreSQL.
@@ -30,7 +30,7 @@ const Experience = () => {
                   Integrated payments, WebSocket-based real-time updates, and Kafka for inter-service messaging.
                 </li>
                 <li>
-                  Developed dashboards (DAP, Trainer Panel) using React.js and Redux; collaborated with cross-functional teams.
+                  Developed interactive dashboards (DAP, Trainer Panel) with React.js and Context API.
                 </li>
                 <li>
                   Deployed services on AWS and implemented secure image handling with encryption/decryption.
@@ -44,13 +44,13 @@ const Experience = () => {
             {/* Experience 2 */}
             <div className="bg-white dark:bg-gray-900 p-6 rounded-lg shadow-md">
               <h3 className="text-xl font-semibold text-blue-500">
-                Quality Inspector – Tata Motors
+                VQA Engineer, LAYAM Flexi Solution Pvt. Ltd
               </h3>
               <p className="text-sm text-gray-500">June 2023 – June 2024</p>
               <ul className="mt-3 list-disc list-inside text-sm text-gray-700 dark:text-gray-300 space-y-1">
-                <li>Improved defect handling and quality control.</li>
-                <li>Coordinated with vendors and engineering teams.</li>
-                <li>Addressed dimensional accuracy issues.</li>
+                <li>Conducted defect investigations on assembly line issues, reducing repeat complaints by 15%.</li>
+                <li>Coordinated with vendors for returns and segregation, accelerating resolution
+times and improving supplier accountability.</li>
               </ul>
             </div>
           </div>
